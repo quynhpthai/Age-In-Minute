@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.Age_In_Minute." parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">#004d40</item> <!-- Your primary color -->
+        <item name="colorPrimaryDark">#004d40</item> <!-- Status bar color -->
+
+    </style>
+</resources>
